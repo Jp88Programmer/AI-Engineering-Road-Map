@@ -1,41 +1,18 @@
 # 🤖 AI Engineer Roadmap — From Full Stack JS Dev to Intermediate AI Engineer
 
-> **Your Profile:** Full Stack JavaScript Engineer (React, Next.js, NestJS, Node.js)
-> **Target:** Intermediate AI Engineer — Interview-ready, Job-ready, Product-building capable
-> **Time Budget:** 3 hrs/weekday × 5 = 15 hrs/week + 6 hrs/weekend day × 2 = 12 hrs → **~27 hrs/week**
-> **Estimated Duration:** 5–6 months to intermediate level
-> **Language Stack:** TypeScript/JavaScript first — Python as secondary
-
----
-
 ## 📋 Table of Contents
 
-1. [Why You're Already Ahead](#why-youre-already-ahead)
-2. [Roadmap Overview](#roadmap-overview)
-3. [Phase 1 — AI Foundations + LLM Basics (Weeks 1–3)](#phase-1)
-4. [Phase 2 — Prompt Engineering + APIs Mastery (Weeks 4–6)](#phase-2)
-5. [Phase 3 — RAG + Vector Databases + Embeddings (Weeks 7–10)](#phase-3)
-6. [Phase 4 — AI Agents + Harness Engineering (Weeks 11–14)](#phase-4)
-7. [Phase 5 — Backend + System Design for AI (Weeks 15–17)](#phase-5)
-8. [Phase 6 — SaaS AI Integration + Business of AI (Weeks 18–20)](#phase-6)
-9. [Phase 7 — Portfolio Projects (Weeks 21–24)](#phase-7)
-10. [Interview Prep](#interview-prep)
-11. [Resources Master List](#resources-master-list)
-12. [Weekly Schedule Template](#weekly-schedule-template)
-
----
-
-## 🚀 Why You're Already Ahead {#why-youre-already-ahead}
-
-| Your Existing Skill | AI Engineering Equivalent | Gap |
-|---|---|---|
-| React / Next.js | AI Chat UIs, Streaming responses, Agent frontends | Small — add AI SDK patterns |
-| NestJS / Node.js | LLM API integrations, AI microservices, webhook handlers | Small — add LLM client libs |
-| REST API design | Tool calling, Function calling, API chains | Small — extend existing knowledge |
-| MySQL + Backend | Vector DB concepts, structured + unstructured data | Medium — new paradigm |
-| System Design | AI system design (context windows, rate limits, cost) | Medium — AI-specific patterns |
-
-**Your secret weapon:** Most AI Engineer courses are Python-first. You'll build in TypeScript/JavaScript — which is increasingly preferred for production AI apps and Next.js AI products. This is a hiring differentiator.
+1. [Roadmap Overview](#roadmap-overview)
+2. [Phase 1 — AI Foundations + LLM Basics (Weeks 1–3)](#phase-1)
+3. [Phase 2 — Prompt Engineering + APIs Mastery (Weeks 4–6)](#phase-2)
+4. [Phase 3 — RAG + Vector Databases + Embeddings (Weeks 7–10)](#phase-3)
+5. [Phase 4 — AI Agents + Harness Engineering (Weeks 11–14)](#phase-4)
+6. [Phase 5 — Backend + System Design for AI (Weeks 15–17)](#phase-5)
+7. [Phase 6 — SaaS AI Integration + Business of AI (Weeks 18–20)](#phase-6)
+8. [Phase 7 — Portfolio Projects (Weeks 21–24)](#phase-7)
+9. [Interview Prep](#interview-prep)
+10. [Resources Master List](#resources-master-list)
+11. [Weekly Schedule Template](#weekly-schedule-template)
 
 ---
 
